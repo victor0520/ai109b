@@ -4,7 +4,7 @@
 * 本專案使用OpenCV的模組，並使用LBPH(Local Binary Pattern Histogram)演算法訓練、辨識
 * create_data.py
     * 先用擷取用戶的100張照片，依照使用者輸入的名字作為一個資料夾存入[images](https://github.com/victor0520/ai109b/tree/main/ai_final/images)\
-    ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/3.png)\
+    ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/3.png)
     * 再用LBPH訓練模型，並存入[face_LBPH.yml](https://github.com/victor0520/ai109b/blob/main/ai_final/face_LBPH.yml)
 
 * recogface.py
@@ -15,10 +15,10 @@
 ## 展示
 ### 建立資料庫並訓練模型
 * [create_data.py](https://github.com/victor0520/ai109b/blob/main/ai_final/create_data.py)\
-![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/1.png)\
+![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/1.png)
 
 ### 進行臉部辨識登錄入
 * [recogface.py](https://github.com/victor0520/ai109b/blob/main/ai_final/recogface.py)\
-![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/2.png)\
+![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/2.png)
 
 ## 本專案只用於學習所用
