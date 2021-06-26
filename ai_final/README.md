@@ -22,3 +22,4 @@
 ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/2.png)
 
 ## 本專案只用於學習所用
+* [LICENSE](https://github.com/victor0520/ai109b/blob/main/ai_final/LICENSE.md)
