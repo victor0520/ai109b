@@ -17,7 +17,7 @@
 * [create_data.py](https://github.com/victor0520/ai109b/blob/main/ai_final/create_data.py)\
 ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/1.png)
 
-### 進行臉部辨識登錄入
+### 進行臉部辨識登入
 * [recogface.py](https://github.com/victor0520/ai109b/blob/main/ai_final/recogface.py)\
 ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/2.png)
 
