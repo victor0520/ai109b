@@ -22,7 +22,8 @@
 ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/5.png)
 * LBP算子在每個像素點都可以得到一個LBP“編碼”，那么，對一幅圖像（記錄的是每個像素點的灰度值）提取其原始的LBP算子之后，得到的原始LBP特征依然是“一幅圖片”，範例如下:\
 ![PICTURE](https://github.com/victor0520/ai109b/blob/main/ai_final/6.png)
-### final
+
+## final
 * 本專案使用OpenCV的模組，並使用LBPH(Local Binary Pattern Histogram)演算法訓練、辨識
 * create_data.py
     * 先用擷取用戶的100張照片，依照使用者輸入的名字作為一個資料夾存入[images](https://github.com/victor0520/ai109b/tree/main/ai_final/images)\
